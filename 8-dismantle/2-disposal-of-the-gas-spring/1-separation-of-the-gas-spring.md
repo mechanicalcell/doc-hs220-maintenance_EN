@@ -55,7 +55,7 @@ Figure 8.1 Posture for Separating the Gas Spring
   <tr>
     <td>
     <div align="center">
-      <img src="../../_assets/주의표시.png" width = 100 height = 100>
+      <img src="../../_assets/주의표시.png" width = 60 height = 60>
     </div>
     </td>
     <td colspan="4">

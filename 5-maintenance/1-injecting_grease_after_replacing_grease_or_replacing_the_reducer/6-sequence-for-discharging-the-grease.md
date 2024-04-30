@@ -47,7 +47,7 @@ Connect the plugs to the outlet and inlet.
   <tr>
     <td>
     <div align="center">
-      <img src="../../_assets/주의표시.png" width = 100 height = 100>
+      <img src="../../_assets/주의표시.png" width = 60 height = 60>
     </div>
     </td>
     <td colspan="4">If air is supplied at too high a pressure to the inside of the grease barrel, etc. of the gearbox where grease is injected, there is a risk of grease suddenly ejecting. It must be covered so that the grease being charged from the grease outlet can only be discharged to the grease receiver. When discharging grease, you should wear safety clothing such as protective glasses, a face shield, and protective clothing.

@@ -6,7 +6,7 @@
   <tr>
     <td>
     <div align="center">
-      <img src="../../_assets/주의표시.png" width = 140 height = 40>
+      <img src="../../_assets/주의표시.png" width = 40 height = 40>
     </div>
     </td>
     <td colspan="4">This robot has a brake built into the motor to maintain the posture of the arm, so the arm will fall if the motor is removed. You must take safety measures such as hanging the arm using a crane or inserting fixing pins to fix the first and second arms to prevent the falling.<p>

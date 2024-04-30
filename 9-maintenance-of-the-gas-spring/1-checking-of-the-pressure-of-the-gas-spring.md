@@ -90,7 +90,7 @@ Table 9-1 Pressure for Each Gas Spring Surface Temperature – The Set Gas Press
   <tr>
     <td>
     <div align="center">
-      <img src="../_assets/주의표시.png" width = 70 height = 40>
+      <img src="../_assets/주의표시.png" width = 40 height = 40>
     </div>
     </td>
     <td colspan="4">Each time the gas pressure is measured, the pressure is reduced by about 0.5 bar.

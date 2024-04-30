@@ -39,7 +39,7 @@ The position of the center of gravity with respect to B axis L<sub>X</sub> = 350
 
 Each distance from B axis and R1 axis to the center of gravity can be calculated respectively as follows.
 
-![](../../_assets/3.6.3_수식1.PNG)
+![](../../_assets/3.6.3_수식1.png)
 
 <br>
 
@@ -47,7 +47,7 @@ Each distance from B axis and R1 axis to the center of gravity can be calculated
 
 The moments of inertia of the load at the center of gravity  J<sub>xx</sub>= 1.56kgm², J<sub>yy</sub>= 1.56 kgm², J<sub>zz</sub>= 1.56 kgm²
     
-![](../../_assets/3.6.3_수식2.PNG)
+![](../../_assets/3.6.3_수식2.png)
 
 <br>
   
@@ -94,7 +94,7 @@ Load weight: 176.3 ≤180 kg
 
 The position of the center of gravity of all loads at the center of rotation of the B axis can be calculated as follows.
 
-![](../../_assets/3.6.3_수식3.PNG)
+![](../../_assets/3.6.3_수식3.png)
 
 
 <br>
@@ -103,7 +103,7 @@ Position of the center of gravity of all blocks with respect to B axis L<sub>x</
 
 <br>
 
-![](../../_assets/3.6.3_수식4.PNG)
+![](../../_assets/3.6.3_수식4.png)
 
 <br>
 
@@ -147,7 +147,7 @@ Table 3-3 Moment of Inertia at the Center of Gravity of Each Block
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1e26{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1e26{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
@@ -189,7 +189,7 @@ Table 3-3 Moment of Inertia at the Center of Gravity of Each Block
 
 <br>
 
-![](../../_assets/3.6.3_수식5.PNG)
+![](../../_assets/3.6.3_수식5.png)
 
 <br>
 ④ Conclusion

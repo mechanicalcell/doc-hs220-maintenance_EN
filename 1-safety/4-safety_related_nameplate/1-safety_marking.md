@@ -28,17 +28,17 @@ In this manual, the following safety symbols are used for instructions for works
 <tbody>
   <tr>
     <td class="tg-nrix">Warning</td>
-    <td class="tg-nrix"><img src="../../_assets/주의표시.png" width = 100 height = 40></td>
+    <td class="tg-nrix"><img src="../../_assets/주의표시.png" width = 100 height = 100></td>
     <td class="tg-0lax">Indicates a very dangerous state, signifying that death or a severe injury or damage to the equipment may result from incorrect operation or handling. Please take precautions in operation and handling.</td>
   </tr>
   <tr>
     <td class="tg-nrix">Mandatory</td>
-    <td class="tg-nrix"><img src="../../_assets/강제표시.png" width = 100 height = 40>  </td></td>
+    <td class="tg-nrix"><img src="../../_assets/강제표시.png" width = 100 height = 100>  </td></td>
     <td class="tg-0lax">Indicates the items that must be implemented.</td>
   </tr>
   <tr>
     <td class="tg-nrix">Prohibition</td>
-    <td class="tg-nrix"><img src="../../_assets/금지표시.png" width = 100 height = 40></td>
+    <td class="tg-nrix"><img src="../../_assets/금지표시.png" width = 100 height = 100></td>
     <td class="tg-0lax">Indicates items that must not be performed.</td>
   </tr>
 </tbody>

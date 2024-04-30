@@ -6,7 +6,7 @@
   <tr>
     <td>
     <div align="center">
-      <img src="../../_assets/주의표시.png" width = 100 height = 100>
+      <img src="../../_assets/주의표시.png" width = 60 height = 60>
     </div>
     </td>
     <td colspan="4">If the grease is not properly injected, the internal pressure in the injection part may suddenly increase, causing oil seal damage, oil leakage, and abnormal operation. An abnormal sound may occur when replacing the current grease with new grease of a different specification, so make sure that different types of grease should not be mixed. Therefore, you must observe the following items when injection grease.</td>

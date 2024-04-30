@@ -10,7 +10,7 @@
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-bgl2{background-color:#f8f8be;border-color:inherit;color:#000000; font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-bgl2{background-color:#f8f8be;color:#000000; font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-jnja{background-color:#ccf1bc;color:#000000; font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
