@@ -1,5 +1,5 @@
 ﻿# 1. Меры предосторожности и правила безопасности
-# 1.1. Introduction
+# 1.1. Введение
 
 The main purpose of this chapter is to describe the matters concerning the safety of the users of the industrial robot and the workers who maintain and operate it.
 
