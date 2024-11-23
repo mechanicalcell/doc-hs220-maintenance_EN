@@ -1,6 +1,7 @@
 ﻿# 1.1. Введение
 
-The main purpose of this chapter is to describe the matters concerning the safety of the users of the industrial robot and the workers who maintain and operate it.
+Основная цель этой главы - описать вопросы, касающиеся безопасности пользователей промышленного робота и работников, которые его обслуживают и эксплуатируют.
+//The main purpose of this chapter is to describe the matters concerning the safety of the users of the industrial robot and the workers who maintain and operate it.
 
 This manual complies with the safety regulations of UC Machinery Directive 98/37/EC (2006/42/EC) and USA OSHA and describes the matters concerning the safety of the manipulator and controller. The manipulator and controller are manufactured in compliance with the safety standards EN ISO 10218-1:2006 and ANSI/RIA R15.06-1999.
 
