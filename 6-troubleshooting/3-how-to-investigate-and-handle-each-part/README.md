@@ -1,5 +1,5 @@
 ﻿# 6.3. How to Investigate and Handle Each Part  
-
+<!--
 <blockquote>
 <table border="0">
 <thead>
@@ -19,3 +19,4 @@
 </thead>
 </table>  
 </blockquote>
+-->
