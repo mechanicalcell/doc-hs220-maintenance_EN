@@ -10,5 +10,5 @@ The manual may be changed without prior notification.
 
 
 
-**ⓒ 2023 Хёндэ Роботикс. Все права защищены**
+**Все права защищены ⓒ 2023 Хёндэ Роботикс**
 {% endhint %}
