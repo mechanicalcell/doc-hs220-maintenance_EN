@@ -2,7 +2,7 @@
 
 * [Руководство по техническому обслуживанию манипулятора - HS220](README.md)
 * [1. Меры предосторожности и правила безопасности](1-safety/README.md)
-  * [1.1. Introduction](1-safety/1-introduction/README.md)
+  * [1.1. Введение](1-safety/1-introduction/README.md)
     * [1.1.1. Cautions](1-safety/1-introduction/1-cautions.md)
     * [1.1.2. General Matters](1-safety/1-introduction/2-general_matters.md)
   * [1.2. Relevant Safety Regulations](1-safety/2-relevent_safety_regulations.md)
