@@ -1,7 +1,7 @@
 ﻿# Table of contents
 
-* [Manipulator Maintenance Manual - HS220](README.md)
-* [1. Safety](1-safety/README.md)
+* [Руководство по техническому обслуживанию манипулятора - HS220](README.md)
+* [1. Меры предосторожности и правила безопасности](1-safety/README.md)
   * [1.1. Introduction](1-safety/1-introduction/README.md)
     * [1.1.1. Cautions](1-safety/1-introduction/1-cautions.md)
     * [1.1.2. General Matters](1-safety/1-introduction/2-general_matters.md)
