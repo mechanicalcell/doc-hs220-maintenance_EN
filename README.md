@@ -1,4 +1,4 @@
-﻿# Manipulator Maintenance Manual - HS180 / HS220 / HS160L
+﻿# Руководство по техническому обслуживанию манипулятора - HS180 / HS220 / HS160L
 
 {% hint style="warning" %}
 The information provided in this manual is the property of Hyundai Robotics.
