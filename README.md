@@ -3,7 +3,7 @@
 {% hint style="warning" %}
 Информация, представленная в данном руководстве, является собственностью Hyundai Robotics.
 
-The manual may not be copied, in part or in full, nor redistributed without a prior written consent from Hyundai Robotics. It may not be provided to any third party nor used for any other purposes.
+Полное или частичное копирование, а также распространение данного руководства без письменного разрешения Hyundai Robotics не допускаются. It may not be provided to any third party nor used for any other purposes.
 
 
 The manual may be changed without prior notification.
