@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Manipulator Maintenance Manual - HS220](README.md)
 * [1. Safety](1-safety/README.md)
@@ -37,19 +37,17 @@
     * [1.11.2. Tools/Workpieces](1-safety/11-safety_related_to_end_effectors/2-tool_workpiece.md)
     * [1.11.3. Pneumatic/Hydraulic Systems](1-safety/11-safety_related_to_end_effectors/3-pneumatic_and_hydraulic_systems.md)
   * [1.12. Responsibilities](1-safety/12-liablilities.md)
-
 * [2. Specifications](2-specifications/README.md)
   * [2.1. Format for the Robot Mechanical Part](2-specifications/1-format_for_the_robot_mechanical_part.md)
   * [2.2. Location of the Robot Nameplate](2-specifications/2-location_of_the_robot_nameplate.md)
   * [2.3. Basic Specifications](2-specifications/3-basic_specifications.md)
   * [2.4. External Dimensions of the Manipulator and the Operation Area](2-specifications/4-external-dimensions_of_the_manipulator_and_the_operation_area.md)
-  * [2.5. Names of Operation Axes](2-specifications/5-names_of_operation_axes.md) 
+  * [2.5. Names of Operation Axes](2-specifications/5-names_of_operation_axes.md)
   * [2.6. Detailed Diagram of the Wrist Axis Attachment Surface](2-specifications/6-detailed_diagram_of_the_wrist_axis_attachment_surface.md)
   * [2.7. Detailed Diagram of the Attachment Surface on the Top of the Arm Frame](2-specifications/7-detailed_diagram_of_the_attachment_surface_on_the_top_of_the_arm_frame.md)
   * [2.8. Wiring and Piping Diagrams for Applications](2-specifications/8-wiring_and_piping_diagrams_for_applications.md)
   * [2.9. Limitation of the Operation Range](2-specifications/9-limitation_of_the_operation_range/README.md)
-    * [2.9.1. Axis 1 (axis S)](2-specifications/9-limitation_of_the_operation_range/1-axis_1(axis_s).md)
-
+    * [2.9.1. Axis 1 (axis S)](2-specifications/9-limitation_of_the_operation_range/1-axis_1\(axis_s\).md)
 * [3. Precautions for Handling](3-precautions-for-handling/README.md)
   * [3.1. Names of Individual Parts](3-precautions-for-handling/1-names-of-idividual-parts.md)
   * [3.2. Locations of the Safety Nameplates](3-precautions-for-handling/2-locations-of-the-safety-nameplates.md)
@@ -69,12 +67,10 @@
     * [3.6.1. Calculating the Allowable Load Torque](3-precautions-for-handling/6-allowable-load-of-the-wrist-axis/1-calculation-of-the-allowable-load-torque.md)
     * [3.6.2. Calculating the Allowable Moment of Inertia](3-precautions-for-handling/6-allowable-load-of-the-wrist-axis/2-calculation-of-the-allowable-moment-of-Inertia.md)
     * [3.6.3. Examples of Calculation of the Allowable Torque and Allowable Moment of Inertia (HS180)](3-precautions-for-handling/6-allowable-load-of-the-wrist-axis/3-example-of-the-calculation-of-the-allowable-torque-and-moment-of-inertia.md)
-
 * [4. Inspection](4-inspection/README.md)
   * [4.1. Inspection Plan](4-inspection/1-inspection-plan.md)
   * [4.2. Inspection Items and Cycles](4-inspection/2-inspection-items-and-cycles.md)
   * [4.3. Inspection of Main External Bolts](4-inspection/3-inspection-of-main-external-bolts.md)
-  
 * [5. Maintenance](5-maintenance/README.md)
   * [5.1. Injecting Grease after Replacing Grease or Replacing the Reducer](5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/README.md)
     * [5.1.1. Grease Injection Amount for Each Axis](5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/1-grease-injection-amount-for-each-axis.md)
@@ -91,13 +87,12 @@
     * [5.1.12. The Inlet and Outlet of the Reducer of the R1 axis](5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/12-the-inlet_and_outlet_of_the_reducer_of_the_r1_axis.md)
     * [5.1.13. Inlet and Outlet of the Gearbox of the Arm Frame](5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/13-inlet_and_outlet_of_the_gearbox_of_the_arm_frame.md)
     * [5.1.14. Inlet of the Gas Spring Bearing](5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/14-inlet_of_the_gas-spring-bearing.md)
-  * [5.2. Replacing the Battery ](5-maintenance/2-replacing-the-battery.md)
+  * [5.2. Replacing the Battery](5-maintenance/2-replacing-the-battery.md)
   * [5.3. Replacing the Wirings inside the Manipulator](5-maintenance/3-replacement-of-wiring-inside-the-manipulator.md)
-
 * [6. Troubleshooting](6-troubleshooting/README.md)
   * [6.1. How to Investigate the Causes of Troubles](6-troubleshooting/1-how-to-investigate-the-causes-of-issues.md)
-  * [6.2. Symptoms and Causes of Troubles ](6-troubleshooting/2-symptoms-and-causes-of-issues.md)
-  * [6.3. How to Investigate and Handle Each Part ](6-troubleshooting/3-how-to-investigate-and-handle-each-part/README.md)
+  * [6.2. Symptoms and Causes of Troubles](6-troubleshooting/2-symptoms-and-causes-of-issues.md)
+  * [6.3. How to Investigate and Handle Each Part](6-troubleshooting/3-how-to-investigate-and-handle-each-part/README.md)
     * [6.3.1. Reducers](6-troubleshooting/3-how-to-investigate-and-handle-each-part/1-reducers.md)
     * [6.3.2. Brake](6-troubleshooting/3-how-to-investigate-and-handle-each-part/2-brake.md)
     * [6.3.3. Motor](6-troubleshooting/3-how-to-investigate-and-handle-each-part/3-motor.md)
@@ -110,20 +105,17 @@
     * [6.5.1. Setting the Origin](6-troubleshooting/5-setting-the-encoder-origin/1-setting-the-origin.md)
     * [6.5.2. Resetting the Encoder](6-troubleshooting/5-setting-the-encoder-origin/2-encoder-reset.md)
     * [6.5.3. Calibrating and Selecting the Encoder](6-troubleshooting/5-setting-the-encoder-origin/3-encoder-compensation-and-selection.md)
-
 * [7. Recommended Spare Parts](7-recommended-spare-parts/README.md)
-
 * [8. Disassembling](8-dismantle/README.md)
   * [8.1. Materials of Individual Parts of the Robot](8-dismantle/1-material-for-each-part.md)
   * [8.2. Disposing of the Gas Spring](8-dismantle/2-disposal-of-the-gas-spring/README.md)
     * [8.2.1. Separating the Gas Spring](8-dismantle/2-disposal-of-the-gas-spring/1-separation-of-the-gas-spring.md)
     * [8.2.2. Disposing of the Gas Spring](8-dismantle/2-disposal-of-the-gas-spring/2-disposal-of-the-gas-spring.md)
-
 * [9. Maintaining the Gas Spring](9-maintenance-of-the-gas-spring/README.md)
   * [9.1. Checking the Pressure of the Gas Spring](9-maintenance-of-the-gas-spring/1-checking-of-the-pressure-of-the-gas-spring.md)
   * [9.2. Replenishing the Gas of the Gas Spring](9-maintenance-of-the-gas-spring/2-replenishing-of-the-gas-of-the-gas-spring/README.md)
     * [9.2.1. When the Pressure of the Nitrogen Gas Bombe Exceeds 150 bar](9-maintenance-of-the-gas-spring/2-replenishing-of-the-gas-of-the-gas-spring/1-when-the-pressure-of-the-nitrogen-gas-bombe-exceeds-150-bar.md)
-    * [9.2.2. When the Pressure of the Nitrogen Gas Bombe is 150 Bar or Below (Replenishing the Gas by Using the Booster)](9-maintenance-of-the-gas-spring/2-replenishing-of-the-gas-of-the-gas-spring/2-when-the-pressure-of-the-nitrogen-gas-bombe-is-150-bar-or-below.md)
+    * [9.2.2. When the Pressure of the Nitrogen Gas Bombe is 150 Bar or Below (Replenishing the Gas by Usin](9-maintenance-of-the-gas-spring/2-replenishing-of-the-gas-of-the-gas-spring/2-when-the-pressure-of-the-nitrogen-gas-bombe-is-150-bar-or-below.md)
   * [9.3. Releasing the Gas of the Gas Spring](9-maintenance-of-the-gas-spring/3-releasing-of-the-gas-of-the-gas-spring.md)
   * [9.4. Replacing (Separating and Assembling) the Gas Spring](9-maintenance-of-the-gas-spring/4-replacing-the-gas-spring/README.md)
     * [9.4.1. Separating the Gas Spring](9-maintenance-of-the-gas-spring/4-replacing-the-gas-spring/1-separating-the-gas-spring.md)
@@ -131,5 +123,4 @@
     * [9.4.3. Technical Data of the Gas Spring](9-maintenance-of-the-gas-spring/4-replacing-the-gas-spring/3-technical-data-of-the-gas-spring.md)
     * [9.4.4. Parts for Gas Spring Pressure Measuring and Gas Charing](9-maintenance-of-the-gas-spring/4-replacing-the-gas-spring/4-parts-for-gas-spring-pressure-measuring-and-gas-charging.md)
     * [9.4.5. Gas Spring Protection Cover](9-maintenance-of-the-gas-spring/4-replacing-the-gas-spring/5-gas-spring-protection-cover.md)
-
 * [10. Diagram for Connection of Wirings inside the Manipulator](10-diagram-for-the-connection-of-wirings-inside-the-manipulator/README.md)
